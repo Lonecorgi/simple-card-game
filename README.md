@@ -1,4 +1,4 @@
-Simple game made by me
+Simple game made by me    
 uses console to speeak to user
 goal of the game is to get a card total worth of between 16 and 21.
 
